@@ -1,0 +1,9 @@
+matplotlib
+numpy
+os
+pandas
+pickle
+pillow
+sklearn
+torch
+torchvision
